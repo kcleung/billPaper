@@ -1,5 +1,8 @@
 New verison of conclusion 
 Hey this is the last version
 more conclusion
+<<<<<<< HEAD
 the last version
 Hey this mine
+the last versionsssssssssssssss
+
